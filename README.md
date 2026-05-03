@@ -22,7 +22,7 @@ LangNest is a collaborative platform designed for developers to explore, learn, 
  
 ### 🛡 Admin
 - View and manage all users
-- Remove posts
+- Remove posts by setting an limit
 - View billing and subscription data
 - Analytics dashboard with charts
 - Pagination across all views
