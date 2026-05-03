@@ -1,4 +1,4 @@
-#LangNest — Collaborative Language Learning Platform
+## LangNest — Collaborative Language Learning Platform
 
 LangNest is a collaborative platform designed for developers to explore, learn, and build using their favorite programming languages and tech stacks.
 
